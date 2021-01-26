@@ -1,0 +1,44 @@
+{
+“PlacesHill” : 
+[{
+“id” : 1,
+“name” : “Cerro Pochoco”,
+“location” : “Lo Barnechea- Camino El Alto, #18390”,
+“distance” : “4,6 Km- Round Trip”,
+“difficulty” : “Medium”,
+“image” : “https://www.ilovechile.cl/wp-content/uploads/2019/04/Cerro-Pochoco.jpg”
+},
+{
+“id” : 2,
+“name” : “Cerro Manquehue”,
+“location” : “Vitacura- Avenida Manquehue Norte, #1926”,
+“distance” : “4,8 Km- Round Trip”,
+“difficulty” : “Medium-Low”,
+“image” : “https://blog.recorrido.cl/wp-content/uploads/2015/10/Cerro-Manquehue-2-1024x512.jpg”
+},
+{
+“id” : 3,
+“name” : “Parque Natural Aguas de Ramón”,
+“location” : “La Reina- Álvaro Casanova , #2583”,
+“distance” : “17 Km- Round Trip”,
+“difficulty” : “Medium”,
+“image” : “https://www.andeshandbook.org/media/route_gallery/1454617012336551671.jpg”
+},
+{
+“id” : 4,
+“name” : “Glaciar Colgante El Morado”,
+“location” : “Baños Morales- San José de Maipo”,
+“distance” : “9 Km- Round Trip”,
+“difficulty” : “Medium”,
+“image” : “https://allmountain.cl/wp-content/uploads/2015/02/MG_75692-e14282548826291.jpg”
+},
+{
+“id” : 5,
+“name” : “Cerro San Cristóbal”,
+“location” : “Recoleta- Pío Nono, #450”,
+“distance” : “11 Km- Round Trip”,
+“difficulty” : “Medium-Low”,
+“image” : “https://interferencia.cl/sites/default/files/styles/article/public/cerro_san_cristobal.jpg?itok=JIbK16mn”
+}
+]
+}
